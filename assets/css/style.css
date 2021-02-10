@@ -12,12 +12,7 @@ p {
     font-size: 16px;
 }
 
-#main-image {
-    padding-bottom: 50px;
-}
-
 /*Header Section*/
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,8 +51,12 @@ a {
     text-decoration: none;
 }
 
-/*Content Section*/
+/* Main Image Section */
+#main-image {
+    padding-bottom: 50px;
+}
 
+/*Content Section*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -129,7 +128,6 @@ a {
 }
 
 /*Benefits Section*/
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -190,7 +188,6 @@ a {
 }
 
 /*Footer Section*/
-
 .footer {
     padding: 30px;
     clear: both;
