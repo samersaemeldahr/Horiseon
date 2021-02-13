@@ -36,5 +36,5 @@ Horiseon is a company that provides you with social solution services to help yo
 
 ## Website
 
-[samersaemeldahr.github.io/Horiseon](https://samersaemeldahr.github.io/Horiseon/)
+[Horiseon Social Solution Services](https://samersaemeldahr.github.io/Horiseon/)
 
